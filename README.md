@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muasim123
-- 👀 I’m interested in Full Stack Web Development | React Native | Data Science
-- 🌱 I’m currently learning Full Stack Web Development | React Native | Data Science
-- 💞️ I’m looking to collaborate on Full Stack Web Development | React Native | Data Science
+- 👀 I’m interested in Full Stack Web Development | Django | Data Science
+- 🌱 I’m currently learning Full Stack Web Development | Django | Data Science
+- 💞️ I’m looking to collaborate on Full Stack Web Development | Django | Data Science
 - 📫 How to reach me:
 - Email:
 - muasim123@outlook.com
